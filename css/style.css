@@ -167,7 +167,7 @@ img {
         margin-bottom: 5rem;
     }
 }
-
+                  /* DOPPIA CONDIZIONE WIDTH*/
 @media screen and (min-width: 769px) and (max-width: 1160px){
     .container {
         width: auto;
