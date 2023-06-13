@@ -128,9 +128,9 @@ img {
     SOLUZIONE RESPONSIVE
  ************************************************/
 
- @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .container {
-        width: auto;
+        width: 100%;
     }
 }
 
@@ -152,7 +152,7 @@ img {
     }
 
     .row .col {
-        width: auto;
+        width: 100%;
     }
 
     p {
@@ -167,9 +167,9 @@ img {
         margin-bottom: 5rem;
     }
 }
-                  /* DOPPIA CONDIZIONE WIDTH*/
+                /* DOPPIA CONDIZIONE WIDTH*/
 @media screen and (min-width: 769px) and (max-width: 1160px){
     .container {
-        width: auto;
+        width: 100%;
     }
 }
